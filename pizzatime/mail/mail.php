@@ -7,7 +7,7 @@ if ($method !== 'POST') {
 }
 
 $project_name = 'PizzaTime';
-$admin_email = 'anzorv@gmail.com';
+$admin_email = 'hozmarived@gmail.com';
 $form_subject = 'Заявка с сайта PizzaTime';
 $message = '';
 
